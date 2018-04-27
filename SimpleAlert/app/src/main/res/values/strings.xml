@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Alert</string>
+    <string name="tap_test">Top to test theb alert:</string>
+    <string name="alert_button"> Alert</string>
+    <string name="alert_message">Click ok to contain cancel to stop:</string>
+    <string name="alert_title">Alert</string>
+    <string name="pressed_ok">pressed ok</string>
+    <string name="pressed_cancel">pressed cancel</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
+
+</resources>

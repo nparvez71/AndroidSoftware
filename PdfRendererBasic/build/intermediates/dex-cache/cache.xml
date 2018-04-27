@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\3b59a67f12565c35082fc7fc944c84ebb2530940\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7b5b463d97587a7679c87eecd056130a7850fc08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\f2da57d9b20aa7b80fff4897d97402fd78c47d76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a48f2b99481c2d6cc10ff7f57fe2b2dfecf7593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\54c152b061d9cb53661fc5c6bd7635626fd3bd8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3762707ba2d8691a47d78a5c40a499c34369ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\3503c4a47da4109593f7a7c422a4e13b29ba6be2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d40f0402b1cb602da67e574e84d05a3d01ee3f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\03f3879f5ad75ad974028e03cc6c1bcf6337dda2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b43141541432b514e7d13e22fd75fedef04a9637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="86e64c18abef7281e2d0d568008d6283cf67a762">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c8cde968ecac72234db3289c321bff6e388c4fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\589bdb17057f8d79dd98d23aebc97e53748e6995\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_27dad91363d0e63f7b446a5752872d037c4dc9c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\933b6a50355d7c79950bfd06c3eb37585fb4da3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75986dd4b65dd73a2ac6ff753705feb4527ec96c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\589bdb17057f8d79dd98d23aebc97e53748e6995\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abbc859bafdb0aa0562dc7e945532c8cf818eaf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\3b59a67f12565c35082fc7fc944c84ebb2530940\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ef6367360d19a92b4e43ea487a005d38f5fa0b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\54c152b061d9cb53661fc5c6bd7635626fd3bd8d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d9b33351403e5d6c26f397998a0614279831072d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\002bc63c2be9ff361948522ebc9f8da1cac1c025\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4a24b37d5fcb230d268b60a7bcc6619a2c24e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f50ca06c150c551eb81cddf940f7a9b479e6bd4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\9003f7ac488f95c37bf3888d078f6b060b206085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_861242990589671283b9f559d9c7d0197edc6b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\94ee3d4af8720669b15f9f1ddfe04c4ad646eadd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_076ce7c3c793983f0119095d881bc056314bd97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\b3a7123b9febe17bdc09a7b291faa7924a7ac5f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a66a2b6ce0148292fd343cdefb12f8ad627eb34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_22d94e57518579b558bcb556be5e241195993bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\03f3879f5ad75ad974028e03cc6c1bcf6337dda2\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a9f98db624a85816979186ab28d0daf7f79bc427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\b3a7123b9febe17bdc09a7b291faa7924a7ac5f6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7c6890be5a1844de373d9c43ed87ca931d3ac778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\J2EE-33\.android\build-cache\9003f7ac488f95c37bf3888d078f6b060b206085\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Users\J2EE-33\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f2175c9818d70dd1df56f69113fdc09350ab4ed5\classes.dex" />
+    </item>
+
+</items>

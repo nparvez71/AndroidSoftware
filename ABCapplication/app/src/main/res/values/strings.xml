@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ABCapplication</string>
+    <string name="news">AThe Software includes decompiling functionality
+        ("JetBrains Decompiler") that enables reproducing source code
+        from the original binary code. Licensee acknowledges
+        that binary code and source code might be protected by copyright
+        and trademark laws. Before using JetBrains Decompiler, Licensee
+        should make sure that decompilation of binary code is not prohibited
+        by the applicable license agreement (except to the extent that Licensee may
+        be expressly permitted under applicable law) or that Licensee has obtained
+        permission to decompile th
+        e binary code from the copyright owner.on</string>
+</resources>

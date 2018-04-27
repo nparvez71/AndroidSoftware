@@ -1,0 +1,7 @@
+#Fri Apr 27 11:42:23 BDT 2018
+base.0=D\:\\Users\\J2EE-33\\AndroidStudioProjects\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8cde968ecac72234db3289c321bff6e388c4fd9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Users\\J2EE-33\\AndroidStudioProjects\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f50ca06c150c551eb81cddf940f7a9b479e6bd4b\\classes.dex
+base.1=D\:\\Users\\J2EE-33\\AndroidStudioProjects\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f50ca06c150c551eb81cddf940f7a9b479e6bd4b
+file.0=D\:\\Users\\J2EE-33\\AndroidStudioProjects\\PdfRendererBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8cde968ecac72234db3289c321bff6e388c4fd9\\classes.dex
